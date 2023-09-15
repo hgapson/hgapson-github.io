@@ -55,6 +55,16 @@ body {
   background-color: #555;
 }
 
+.html {
+  border: 3px solid #12cfb6;
+}
+.javascriptjavascript {
+  border: 3px solid #eaee0c;
+}
+.function {
+  border: 3px solid #2c0344;
+}
+
 @media screen and (max-width: 300px) {
   .nav-links {
     display: none;
@@ -169,7 +179,7 @@ p {
   width: 100%;
 }
 h4 {
-  color: #555;
+  color: #22131352;
   font-weight: normal;
 }
 .col-4 p {
